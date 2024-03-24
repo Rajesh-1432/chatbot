@@ -1,0 +1,9 @@
+flask
+flask_cors
+python-dotenv
+langchain
+openai
+faiss-cpu
+pdfplumber
+langchain_community
+werkzeug
